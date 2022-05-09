@@ -1,0 +1,57 @@
+.navbar {
+    font-size: 2em;
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+    padding: 10px;
+    ;
+    
+}
+.navbar-brand h1{
+    font-family: sans-serif;
+    font-weight: bold
+    
+}
+button { 
+    color: black;
+}
+div p {
+    border: gray 2px solid;
+    color: black;
+    background-color: grey;
+    
+    
+}
+div h1 {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div h2 {
+    font-size: 1.7em;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 15px;
+}
+.grey {
+    background-color: grey;
+    padding-top: 10px;
+    width: 95%;
+    margin: auto;
+}
+body {
+    color: black;
+}
+span {
+    color: black;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.icon-bar  {
+    border: 1px solid black;
+}
+
+button {
+    margin-top: -5px;
+    color: black;
+}
