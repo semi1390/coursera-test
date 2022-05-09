@@ -1,16 +1,19 @@
+.navbar  {
+    position: sticky;
+    width: 100%;
+    top: 0;
+}
 .navbar {
-    font-size: 2em;
+    font-size: 1em;
     background-color: grey;
     border-radius: 0;
     border: 0;
     padding: 10px;
-    ;
     
 }
 .navbar-brand h1{
     font-family: sans-serif;
-    font-weight: bold
-    
+    font-weight: bold;
 }
 button { 
     color: black;
@@ -27,6 +30,7 @@ div h1 {
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 div h2 {
     font-size: 1.7em;
     font-weight: bold;
@@ -35,8 +39,9 @@ div h2 {
 }
 .grey {
     background-color: grey;
-    padding-top: 10px;
+    padding-top:  1px; 
     width: 95%;
+    margin-top: 50px;
     margin: auto;
 }
 body {
@@ -49,9 +54,4 @@ span {
 }
 .icon-bar  {
     border: 1px solid black;
-}
-
-button {
-    margin-top: -5px;
-    color: black;
 }
